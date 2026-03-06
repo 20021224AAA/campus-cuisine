@@ -9,7 +9,7 @@
         <!-- <version>2.7.18</version> -->
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hmdp</groupId>
+    <groupId>com.compuscuisine</groupId>
     <artifactId>hm-dianping</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hm-dianping</name>
@@ -114,3 +114,4 @@
     </build>
 
 </project>
+
