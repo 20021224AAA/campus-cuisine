@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.compuscuisine</groupId>
-    <artifactId>hm-dianping</artifactId>
+    <artifactId>compus-cuisine</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hm-dianping</name>
     <description>Demo project for Spring Boot</description>
@@ -114,4 +114,5 @@
     </build>
 
 </project>
+
 
